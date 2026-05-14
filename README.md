@@ -24,14 +24,17 @@ I build systems that bridge the gap between complex logic and scalable infrastru
 ### 🔍 Deep Dives & Niche Tools
 
 #### 🛡️ Security & Research
+
 - **[EvilIP](https://github.com/jabez007/evilip)** - Network protocol experiments leveraging the "evil bit" (RFC 3514) and ICMP masking.
-- **[Cyphercon9](https://github.com/jabez007/cyphercon9/tree/dev)** - Hardware/Firmware logic for the Cyphercon 9 badge, including the **Flipper App** (see `dev` branch).
+- **[Cyphercon9](https://github.com/jabez007/cyphercon9/tree/development)** - Hardware/Firmware logic for the Cyphercon 9 badge, including the **Flipper App** (see `dev` branch).
 
 #### 🏗️ Infrastructure & OS
+
 - **[dockerpi-gen](https://github.com/jabez007/dockerpi-gen)** - Custom OS generation for Docker-optimized Raspberry Pi environments.
 - **[Gemini-Obsidian](https://github.com/jabez007/gemini-obsidian)** - Local-first RAG capabilities for CLI-based AI workflows.
 
 #### 🧠 Systems & Knowledge
+
 - **[Ouroboros-Epistle-Forge](https://github.com/jabez007/ouroboros-epistle-forge)** - A sophisticated generator for event-driven Python applications using Kafka/RabbitMQ.
 - **[TC2-BBS-Mesh](https://github.com/jabez007/tc2-bbs-mesh)** - Bridging legacy BBS systems with modern Meshtastic mesh networking.
 - **[Johnny-Decimal-Zettelkasten](https://github.com/jabez007/johnny-decimal-zettelkasten)** - A compounding knowledge system architecture for "Second Brain" management.
